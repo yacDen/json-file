@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "data": [
+    { "id": 1, "letter": "A", "sound": "a.mp3" },
+    { "id": 2, "letter": "B", "sound": "b.mp3" }
+  ]
+}
