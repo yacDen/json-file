@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "data": [
+    { "id": 1, "number": "1", "de": "eins" },
+    { "id": 2, "number": "2", "de": "zwei" }
+  ]
+}
